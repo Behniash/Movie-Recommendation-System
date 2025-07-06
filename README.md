@@ -1,11 +1,5 @@
 #  Movie Recommendation System
 
-<p align="center">
-  <img src="https://img.shields.io/badge/python-3.10-blue?logo=python">
-  <img src="https://img.shields.io/badge/machine%20learning-✅-brightgreen">
-  <img src="https://img.shields.io/badge/license-MIT-lightgrey">
-</p>
-
 A **Movie Recommendation System** built with Machine Learning algorithms.  
 This project predicts how likely a user is to enjoy a movie, based on the MovieLens 100K dataset.
 
