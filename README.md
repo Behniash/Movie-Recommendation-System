@@ -23,12 +23,16 @@ This project uses the [MovieLens 100K Dataset](https://grouplens.org/datasets/mo
 
 ---
 
-## Algorithms
+##  Algorithms
 This project implements:
+
 -User-based Collaborative Filtering
+
 -Item-based Collaborative Filtering
+
 -(Coming soon: Matrix Factorization with SVD)
 
+---
 ##  Installation
 1 Clone the repository:
 ```bash
